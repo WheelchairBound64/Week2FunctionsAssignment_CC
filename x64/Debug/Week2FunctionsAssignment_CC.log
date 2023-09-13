@@ -1,0 +1,4 @@
+﻿  Week2FunctionsAssignment_CC.cpp
+C:\Users\brett\Desktop\GAME 2303\Week2FunctionsAssignment_CC\Week2FunctionsAssignment_CC.cpp(15,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\brett\Desktop\GAME 2303\Week2FunctionsAssignment_CC\Week2FunctionsAssignment_CC.cpp(26,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Week2FunctionsAssignment_CC.vcxproj -> C:\Users\brett\Desktop\GAME 2303\Week2FunctionsAssignment_CC\x64\Debug\Week2FunctionsAssignment_CC.exe
